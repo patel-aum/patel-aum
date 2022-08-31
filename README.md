@@ -7,5 +7,4 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... techtv49@gmail.com
 - 😄 Pronouns: ... he
-- ⚡ Fun fact: ... 3 AM is my favourite time of day. 
--->
+- ⚡ Fun fact: ... 3 AM is my favourite time of day.
