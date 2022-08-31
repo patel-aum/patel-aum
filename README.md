@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aum Patel</h1>
-<h3 align="center">A passionate Cybersecurity enthusiast and frontend developer from India</h3>
+<h1 align="center">Hi 👋, Welcome to My Github Profile</h1>
+<h3 align="center">A passionate Cybersecurity enthusiast and Frontend developer from India</h3>
+<p align="center"><img src="https://github.com/patel-aum/patel-aum/blob/main/Banner.png"></img></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-aum" alt="patel-aum" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aum990" target="blank"><img src="https://img.shields.io/twitter/follow/aum990?logo=twitter&style=for-the-badge" alt="aum990" /></a> </p>
+<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" /> 
+<a href="https://twitter.com/aum990" target="blank"><img width="220" src="https://img.shields.io/twitter/follow/aum990?logo=twitter&style=for-the-badge" alt="aum990" /></a> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
