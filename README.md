@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, Welcome to My Github Profile</h1>
 <h3 align="center">A passionate Cybersecurity enthusiast and Frontend developer from India</h3>
-<p align="center"><img src="https://github.com/patel-aum/patel-aum/blob/main/Banner.png"></img></p>
+<p align="center"><img height="350" width="680" src="https://user-images.githubusercontent.com/73774338/203944286-3f2e17cf-8762-4771-b763-037f9d20082a.png"></img></p>
 
-<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" /> 
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" /> 
 <a href="https://twitter.com/aum990" target="blank"><img width="220" src="https://img.shields.io/twitter/follow/aum990?logo=twitter&style=for-the-badge" alt="aum990" /></a> </p>
+
 
 - 🔭 I’m currently working on **MERN STACK**
 
