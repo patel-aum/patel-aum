@@ -19,6 +19,7 @@
 - 📫 How to reach me **techtv49@gmail.com**
 
 - ⚡ Fun fact **3 AM is my favorite time of day.**
+ <img src="https://activity-graph.herokuapp.com/graph?username=patel-aum&bg_color=0d1117&color=c9c5a4&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
