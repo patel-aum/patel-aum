@@ -35,11 +35,12 @@
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=patel-aum&theme=chartreuse-dark)
 <br>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en" alt="patel-aum" /></p>
-
+<div>
+<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en&theme=dark" alt="patel-aum" /></p>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-aum&theme=dark" alt="Stats" />
+</div>
 <br>
-
-<h3 align="left">Support:</h3>
+<h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aumpatel">
 <br>
-<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aumpatel" /></a></p><br><br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aumpatel" /></a></p><br><br>
