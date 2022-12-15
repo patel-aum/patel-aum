@@ -38,9 +38,15 @@
 <div>
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en&theme=dark" alt="patel-aum" /></p>
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-aum&theme=dark" alt="Stats" />
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-aum&show_icons=true&locale=en&layout=compact&theme=dark" alt="Stats" />
+
+
 </div>
 <br>
 <h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aumpatel">
 <br>
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aumpatel" /></a></p><br><br>
+
+    
+
