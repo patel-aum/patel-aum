@@ -34,12 +34,21 @@
 
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=patel-aum&theme=chartreuse-dark)
 <br>
-<p>&nbsp;
-<div>
-<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en&theme=dark" alt="patel-aum" /></p>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-aum&theme=dark" alt="Stats" />
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-aum&show_icons=true&locale=en&layout=compact&theme=dark" alt="Stats" />
+***
 
+Stats | Launguages
+------| ----------
+![ Github Stats](https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en&theme=dark) | ![Launguages](https://github-readme-stats.vercel.app/api/top-langs?username=patel-aum&show_icons=true&locale=en&layout=compact&theme=dark&width=500)
+
+***
+
+***
+
+Graph | Contribution
+------| ----------
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-aum&theme=monokai&text_color=white) | ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=patel-aum&theme=dark&width=400)
+
+***
 
 </div>
 <br>
