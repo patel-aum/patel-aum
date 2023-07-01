@@ -40,6 +40,8 @@ Stats | Launguages
 ------| ----------
 ![ Github Stats](https://github-readme-stats.vercel.app/api?username=patel-aum&show_icons=true&locale=en&theme=dark) | ![Launguages](https://github-readme-stats.vercel.app/api/top-langs?username=patel-aum&show_icons=true&locale=en&layout=compact&theme=dark&width=500)
 
+[![patel-aum's GitHub | Stats](https://stats.quine.sh/patel-aum/github?theme=dark)](https://quine.sh)
+
 ***
 
 ***
