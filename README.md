@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, Welcome to My GitHub Profile</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast and DevOps Engineer from India</h3>
-<p align="center"><img height="300" width="630" src="https://user-images.githubusercontent.com/73774338/203944286-3f2e17cf-8762-4771-b763-037f9d20082a.png"></img></p>
+<!-- <h3 align="center">A passionate Engineer from India</h3>-->
+
+<p align="center"><img height="300" width="630" src="https://user-images.githubusercontent.com/73774338/203944286-3f2e17cf-8762-4771-b763-037f9d20082a.png"></img></p> 
 
 <p align="center">
   <img width="200px" src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" />
   <a href="https://twitter.com/aum990" target="blank"><img width="220" src="https://img.shields.io/twitter/follow/aum990?logo=twitter&style=for-the-badge" alt="aum990" /></a>
 </p>
 
-- 🔭 I’m currently working on **Cloud Security and DevOps Automation**
+- 🔭 I’m currently working on **MLOps Automation**
 
 - 🌱 I’m currently learning **Kubernetes, AWS Security, and Advanced Threat Detection**
 
-- 👯 I’m looking to collaborate on **Cybersecurity Projects and DevOps Tooling**
+- 👯 I’m looking to collaborate on **Cybersecurity Projects and AI **
 
 - 🤝 I’m looking for help with **Infrastructure as Code (IaC) and Cloud Security Posture Management**
 
-- 💬 Ask me about **DevSecOps, CI/CD pipelines, and Security Best Practices**
+- 💬 Ask me about **ML-OPS, CI/CD pipelines, and Security Best Practices**
 
-- 📫 How to reach me **techtv49@gmail.com**
+- 📫 How to reach me **aump6633@gmail.com**
 
 - ⚡ Fun fact **I can troubleshoot server issues faster than I can make coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/aum990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aum990" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aum-patel-5371aa203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aum-patel-5371aa203" height="30" width="40" /></a>
+?  <a href="https://linkedin.com/in/aum-patel-5371aa203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aum-patel-5371aa203" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/ap0805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap0805" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/techtv49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="techtv49" height="30" width="40" /></a>
 </p>
