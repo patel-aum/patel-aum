@@ -5,14 +5,14 @@
 
 <p align="center">
   <img width="200px" src="https://komarev.com/ghpvc/?username=patel-aum&label=Profile%20views&color=0e75b6&style=flat" alt="patel-aum" />
-  <a href="https://twitter.com/aum990" target="blank"><img width="220" src="https://img.shields.io/twitter/follow/aum990?logo=twitter&style=for-the-badge" alt="aum990" /></a>
+  <a href="https://twitter.com/irl_aum" target="blank"><img width="220" src="https://img.shields.io/twitter/follow/irl_aum?logo=twitter&style=for-the-badge" alt="aum990" /></a>
 </p>
 
 - 🔭 I’m currently working on **Automating Cloud Infrastructure and DevOps Pipelines**
 
 - 🌱 I’m currently learning **Advanced Kubernetes, Cloud Security, and Observability Tools**
 
-- 👯 I’m looking to collaborate on **SRE, DevOps, and Security Automation Projects **
+- 👯 I’m looking to collaborate on **SRE, DevOps, and Security Automation Projects**
 
 - 🤝 I’m looking for help with **Scaling CI/CD, Infrastructure as Code (IaC), and Disaster Recovery Strategies**
 
